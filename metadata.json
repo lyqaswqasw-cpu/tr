@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Remix: Remix: Remix: Loop Live",
+  "description": "تطبيق IPTV / OTT احترافي بواجهة سينمائية داكنة فاخرة، متصل بالكامل بقاعدة بيانات Firebase حقيقية.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
